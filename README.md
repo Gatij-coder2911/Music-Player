@@ -8,3 +8,6 @@ To make the code work, you need to install following packages:-
   - `pip install customtkinter`
   - `pip install Pillow`
   - `pip install pygame`
+
+## Output
+![Screenshot 2023-11-18 133612](https://github.com/Gatij-coder2911/Music-Player/assets/116671286/415efae8-c2b6-4d1b-b926-014db8bea7cf)
